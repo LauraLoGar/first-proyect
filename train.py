@@ -1,0 +1,1 @@
+print('nuevo procedo de entrenamiento')
